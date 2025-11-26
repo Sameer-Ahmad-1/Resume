@@ -1,0 +1,7 @@
+/* fonts.css */
+@font-face {
+  font-family: 'Cal Sans';
+  src: url('/fonts/CalSans-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
